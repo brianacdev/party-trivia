@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-ui-pro-template-saas",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "typecheck": "nuxt typecheck"
+  },
+  "dependencies": {
+    "@iconify-json/heroicons": "^1.2.0",
+    "@iconify-json/simple-icons": "^1.2.1",
+    "@iconify-json/material-symbols": "^1.2.0",
+    "@nuxt/fonts": "^0.7.2",
+    "@nuxt/image": "^1.8.0",
+    "@nuxt/ui": "^2.18.4",
+    "@vueuse/nuxt": "^11.0.3",
+    "nuxt": "^3.13.1"
+  },
+  "devDependencies": {
+    "vue-tsc": "^2.0.29"
+  }
+}
