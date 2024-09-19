@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="h-full w-full flex flex-col justify-start">
+  <div class="h-full w-full flex flex-col">
     <div class="flex-none">
       <AppHeader/>
     </div>
